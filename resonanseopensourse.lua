@@ -1,3 +1,10 @@
+--by Script Hub FTAP UNLOCK FREE RESONANSE V2.9 https://t.me/Scriptftap
+--by Script Hub FTAP UNLOCK FREE RESONANSE V2.9https://t.me/Scriptftap
+--by Script Hub FTAP UNLOCK FREE RESONANSE V2.9 https://t.me/Scriptftap
+--by Script Hub FTAP UNLOCK FREE RESONANSE V2.9 https://t.me/Scriptftap
+--by Script Hub FTAP UNLOCK FREE RESONANSE V2.9 https://t.me/Scriptftap
+
+
 local sources = {}
 sources.Intro = [====[
 local Intro = {}
@@ -86,7 +93,7 @@ function Intro.Play()
             text.Name = name
             text.Size = UDim2.fromScale(1, 1)
             text.BackgroundTransparency = 1
-            text.Text = "cracked by InLoad and wraith.dev"
+            text.Text = "cracked by Script hub FTAP https://t.me/Scriptftap"
             text.Font = Enum.Font.GothamBold
             text.TextScaled = true
             text.TextWrapped = true

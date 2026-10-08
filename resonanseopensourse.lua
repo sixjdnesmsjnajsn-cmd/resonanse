@@ -1,5 +1,5 @@
 --by Script Hub FTAP UNLOCK FREE RESONANSE V2.9 https://t.me/Scriptftap
---by Script Hub FTAP UNLOCK FREE RESONANSE V2.9https://t.me/Scriptftap
+--by Script Hub FTAP UNLOCK FREE RESONANSE V2.9 https://t.me/Scriptftap
 --by Script Hub FTAP UNLOCK FREE RESONANSE V2.9 https://t.me/Scriptftap
 --by Script Hub FTAP UNLOCK FREE RESONANSE V2.9 https://t.me/Scriptftap
 --by Script Hub FTAP UNLOCK FREE RESONANSE V2.9 https://t.me/Scriptftap
